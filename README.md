@@ -1,4 +1,3 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Maciek</h1>
 <h3 align="center">An ambitious student with practical experience in creating and managing IT infrastructure. I have skills in working with LAN networks, administering Windows and Linux systems, and automating processes through scripting. I am passionate about developing my knowledge in programming, database management, and electronics. Quick problem-solving and user support are my strengths. I am always striving to expand my knowledge by my participation in various courses and certifications.</h3>
 
